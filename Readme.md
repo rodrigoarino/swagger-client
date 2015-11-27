@@ -4,4 +4,4 @@ Swagger UI.
 
 Ready to deploy on Heroku.
 
-Test it at [http://swagger-client.herokuapp.com/](http://swagger-client.herokuapp.com/)
+Test it at [http://plum-swagger.herokuapp.com/](http://plum-swagger.herokuapp.com/)
